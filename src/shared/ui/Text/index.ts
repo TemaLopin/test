@@ -1,0 +1,1 @@
+export { LightText } from './style'
